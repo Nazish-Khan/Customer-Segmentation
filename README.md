@@ -13,7 +13,7 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 2. Apply K-means clustering to segment customers.
 3. Review results and visualizations in the notebook.
 
-For detailed instructions, see the [notebooks](CustomerSegmentation.ipynb)
+For detailed instructions, see the [notebook](CustomerSegmentation.ipynb)
 
 
 ## Contact
